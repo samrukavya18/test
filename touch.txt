@@ -1,1 +1,1 @@
-welcome to terminal
+welcome to feature
